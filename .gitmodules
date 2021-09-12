@@ -1,0 +1,6 @@
+[submodule "LightLOG"]
+	path = LightLOG
+	url = https://github.com/Shenggan/LightLOG
+[submodule "cmdline"]
+	path = cmdline
+	url = https://github.com/DCZYewen/cmdline
